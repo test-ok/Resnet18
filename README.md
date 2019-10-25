@@ -1,5 +1,5 @@
 # Resnet18
-##This is a homework for AI.\
+##  This is a homework for AI.\
 *main.py: The main resnet model and the codes of training.\
 *resnet18_10000_rate_0_001.pth: The trained model by training 10000 iterations (batchsize=100, epoch=20).\
 *filter_view.py: Python file of filter visualization.\
